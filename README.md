@@ -1,6 +1,6 @@
 # Multithreaded-server-Ticket-Reservation
 
-This is a multithreaded server written for educational purposes.  
+This is a multithreaded service written for educational purposes.  
 The server creates a thread for each client that connects to reserve any number of seats in a theater.  
 
 The technologies used are Java SDK 8 and Gradle tool.  
